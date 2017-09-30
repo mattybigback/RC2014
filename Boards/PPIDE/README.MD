@@ -19,4 +19,4 @@ This module is an 8-bit IDE interface based around the 82C55 chip. The design wa
 
 ![alt text][logo]
 
-[logo]: https://github.com/mattybigback/RC2014/blob/master/Boards/PPIDE/PPIDE.png "PPIDE Board Render"
+[logo]: https://github.com/mattybigback/RC2014/blob/master/Boards/PPIDE/PPIDE_small.png "PPIDE Board Render"
