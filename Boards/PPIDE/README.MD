@@ -14,3 +14,9 @@ This module is an 8-bit IDE interface based around the 82C55 chip. The design wa
 | R3 - R5 | 10 k |
 | RN1 | 10k x 6 resistor network |
 | SW1 | 6 way DIP switch |
+
+# Board preview
+
+![alt text][logo]
+
+[logo]: https://github.com/mattybigback/RC2014/blob/master/Boards/PPIDE/PPIDE.png "PPIDE Board Render"
