@@ -18,7 +18,7 @@ You must also add this line to your build config file to enable the PPIDE driver
 PPIDEENABLE     .SET    TRUE
 ```
 
-RomWBW expects the PPIDE hardware to be at haddress 0x20, so by defalt the DIP switches should be set so that A6 is on and the rest are off. You can change the base address in ```/Source/HBIOS/ppide.asm``` by modifying this block of code:
+RomWBW expects the PPIDE hardware to be at haddress 0x20, so by defalt the DIP switches should be set so that A5 is on and the rest are off. You can change the base address in ```/Source/HBIOS/ppide.asm``` by modifying this block of code:
 
 ```
 #IF (PPIDEMODE == PPIDEMODE_DIO3)
